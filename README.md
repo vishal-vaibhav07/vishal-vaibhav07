@@ -1,2 +1,4 @@
-## Hi there 👋
-Author - Vishal Vaibhav
+GitHub
+<br>
+Author - Vishal Vaibhav<br>
+SRM Institute Of Science Technology
